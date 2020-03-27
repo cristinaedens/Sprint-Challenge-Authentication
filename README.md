@@ -48,7 +48,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 •has salts built in to prevent rainbow table attacks
 
 - [ ] What are the three parts of the JSON Web Token?
-•the JWT as header
+• header
 •payload
 •signature
 
